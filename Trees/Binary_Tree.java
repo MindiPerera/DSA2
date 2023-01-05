@@ -1,5 +1,7 @@
 class BinaryTree {
 	class Node {
-		int value;
+		int value; 
+		Node leftchild;
+		Node rightchild;
 	}
 }
